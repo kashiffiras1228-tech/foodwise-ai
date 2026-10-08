@@ -1,0 +1,11 @@
+Organization_Name,Organization_Type,City,Capacity_Per_Day,Accepted_Categories,Contact
+Hope Kitchen NGO,NGO / Community Kitchen,Mumbai,150,"Grains & Bread,Vegetables,Protein,Snacks",hopekitchen@example.org
+Nourish Foundation,NGO / Food Bank,Delhi,200,"Grains & Bread,Vegetables,Protein,Desserts,Snacks",nourish@example.org
+Green Plate Trust,NGO / Community Kitchen,Bangalore,100,"Grains & Bread,Vegetables,Snacks,Desserts",greenplate@example.org
+Asha Shelter Home,Shelter / Welfare Home,Mumbai,80,"Grains & Bread,Vegetables,Protein,Beverages",asha@example.org
+City Rescue Mission,Shelter / Welfare Home,Delhi,120,"Grains & Bread,Vegetables,Protein,Snacks,Desserts",cityrescue@example.org
+Sunrise Old Age Home,Elderly Care,Bangalore,60,"Grains & Bread,Vegetables,Desserts,Beverages",sunrise@example.org
+Rainbow Children Home,Orphanage,Pune,90,"Grains & Bread,Vegetables,Protein,Snacks,Desserts,Beverages",rainbow@example.org
+Samridhi Community Centre,Community Centre,Chennai,130,"Grains & Bread,Vegetables,Snacks,Beverages",samridhi@example.org
+Arogya Medical Camp,Medical / Health Camp,Hyderabad,50,"Grains & Bread,Vegetables,Beverages",arogya@example.org
+Pragati Skill Centre,Skill / Training Centre,Pune,70,"Grains & Bread,Vegetables,Snacks,Beverages",pragati@example.org
